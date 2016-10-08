@@ -1,0 +1,2 @@
+# WatchDog
+This project attempts to aid people in protecting their devices while momentarily away from them. This project is a website that uses a devices webcam to send a stream to a user's mobile device. The user can watch their computer through the stream to their mobile device while away. At any moment, the user can issue an "alarm" from their mobile device to send out a distress audio from the device that they are away from.
